@@ -24,8 +24,8 @@ Atualmente, venho desenvolvendo meus conhecimentos em programação, desenvolvim
 
 ### GitHub Foundations
 
-- ✅ GitHub Foundations — Parte 1 de 2
-- ✅ GitHub Foundations — Parte 2 de 2
+- ✅ [GitHub Foundations — Parte 1 de 2](./certificadoGIT.pdf)
+- ✅ [GitHub Foundations — Parte 2 de 2](./certificadoGIT2.pdf)
 
 Concluídas com êxito em setembro de 2026.
 
